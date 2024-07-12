@@ -5,13 +5,14 @@ The Company Management System is designed to streamline operations and managemen
 ## User Authentication:
 
 - Users can securely log in using their username and password. Different roles (admin, department head, employee) have distinct access levels and functionalities.
+- Has a Login, Sign Up and User credentials page
 
 ## Admin Dashboard:
 
 - The Admin dashboard displays information for all employees in the company. It enables the admin to add, create, update, or delete user accounts. The system manages employee data including names, roles, and project assignments.
 
 ## Head of Department Dashboard:
-- The HOD Dashboard shows personal information and details of all employees currently within that department. The HOD can create projects, assign employees to projects, and set project milestones. It also allows the HOD to monitor attendance reports for each employee.
+- The HOD Dashboard shows personal information and details of all employees currently within that department. The HOD can create projects, assign employees to projects, and set project milestones. It also allows the HOD to monitor attendance reports for each employee and approve/reject Employee complaints
 
 ## Employee Dashboard:
 
