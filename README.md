@@ -3,11 +3,11 @@
 The Company Management System is designed to streamline operations and management tasks within an organization. It provides dedicated dashboards for employees, heads of departments, and administrators, each tailored to their specific roles and responsibilities. This system is simple yet highly functional, catering to the basic needs of employees and enhancing overall productivity.
 
 ## Functionalities by User Role
--Employees: Access personal information, check schedules, request leave, and more.
+- Employees: Access personal information, check schedules, request leave, and more.
 
--Head of Department: Manage department tasks, approve leave requests, generate reports, and more.
+- Head of Department: Manage department tasks, approve leave requests, generate reports, and more.
 
--Admin: Oversee the entire system, manage user accounts, configure settings, and more.
+- Admin: Oversee the entire system, manage user accounts, configure settings, and more.
 
 ## ERD Diagram of the database:
 ![Screenshot 2024-07-12 100446](https://github.com/user-attachments/assets/487cd200-d14b-42db-ac3d-60bd45f8b3ff)
