@@ -19,9 +19,11 @@ The Company Management System is designed to streamline operations and managemen
 - The Employee Dashboard displays personal information for the employee. It allows employees to mark their attendance, view their attendance history, and submit complaints for review by the HOD in the HOD dashboard.
 
 ## ERD Diagram of the database:
-![Screenshot 2024-07-12 100446](https://github.com/user-attachments/assets/487cd200-d14b-42db-ac3d-60bd45f8b3ff)
+![image](https://github.com/user-attachments/assets/2840af28-863e-46e8-8d45-2bfe2d860675)
 
-(Note there may be 2-3 tables that might be missing, I added them in the end)
+## Continued:
+![image](https://github.com/user-attachments/assets/efb61214-4842-43db-8461-b38e1c22fec3)
+
 
 ## How to Proceed with Setting Up the System
 **Step 1: Database Setup**
