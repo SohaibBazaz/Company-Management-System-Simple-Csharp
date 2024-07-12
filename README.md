@@ -16,13 +16,15 @@ The Company Management System is designed to streamline operations and managemen
 
 ## How to Proceed with Setting Up the System
 **Step 1: Database Setup**
--Create the Database:
+- Create the Database:
 Based on the provided Entity Relationship Diagram (ERD), create the necessary tables and relationships in MySQL.
 
 **Step 2: Update the database credentials in the C# code:**
--Open the C# project in Visual Studio.
--Locate the configuration file or the section in the code where the database connection is defined.
--Update the database name, user, and password with your MySQL credentials
+- Open the C# project in Visual Studio.
+
+- Locate the configuration file or the section in the code where the database connection is defined.
+
+- Update the database name, user, and password with your MySQL credentials
 
 ## Support
 For questions, suggestions, or issues, please create a pull request or an issue on the GitHub repository. You can also reach out via email at sohaibbazaz@gmail.com  I'm happy to assist with any queries you may have.
