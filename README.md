@@ -1,13 +1,21 @@
 ## COMPANY MANAGEMENT SYSTEM
 ## About
-The Company Management System is designed to streamline operations and management tasks within an organization. It provides dedicated dashboards for employees, heads of departments, and administrators, each tailored to their specific roles and responsibilities. This system is simple yet highly functional, catering to the basic needs of employees and enhancing overall productivity.
+The Company Management System is designed to streamline operations and management tasks within an organization. It provides dedicated dashboards for employees, heads of departments, and administrators, each having specific roles and responsibilities. This system is simple yet highly functional, providing basic needs of employees and the users that use this system.
 
-## Functionalities by User Role
-- Employees: Access personal information, check schedules, request leave, and more.
+## User Authentication:
 
-- Head of Department: Manage department tasks, approve leave requests, generate reports, and more.
+- Users can securely log in using their username and password. Different roles (admin, department head, employee) have distinct access levels and functionalities.
 
-- Admin: Oversee the entire system, manage user accounts, configure settings, and more.
+## Admin Dashboard:
+
+- The Admin dashboard displays information for all employees in the company. It enables the admin to add, create, update, or delete user accounts. The system manages employee data including names, roles, and project assignments.
+
+##Head of Department Dashboard:
+- The HOD Dashboard shows personal information and details of all employees currently within that department. The HOD can create projects, assign employees to projects, and set project milestones. It also allows the HOD to monitor attendance reports for each employee.
+
+## Employee Dashboard:
+
+- The Employee Dashboard displays personal information for the employee. It allows employees to mark their attendance, view their attendance history, and submit complaints for review by the HOD in the HOD dashboard.
 
 ## ERD Diagram of the database:
 ![Screenshot 2024-07-12 100446](https://github.com/user-attachments/assets/487cd200-d14b-42db-ac3d-60bd45f8b3ff)
